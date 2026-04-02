@@ -1,2 +1,2 @@
-# FUTURE_PE_03
+# prompting_03
 prompting chatgpt
